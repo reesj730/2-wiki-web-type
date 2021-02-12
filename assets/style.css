@@ -1,0 +1,132 @@
+
+body {
+  margin: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.wrapper {
+  width: 400px;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  background-color: #fff;
+  color: #444;
+}
+
+header{
+	padding:20px;
+}
+
+h1{
+ font-family: ff-folk-rough, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 100px;
+ text-align: center;
+ color: red;
+}
+
+h2{
+ font-family: ff-folk-rough, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 32px;
+}
+
+h3{
+ font-family: ff-folk-rough, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 24px;
+ position: absolute;
+ top: 190px;
+ left: 305px;
+ text-align: center;
+ color: red;
+}
+
+h4{
+ font-family: ff-folk-rough, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 55px;
+ letter-spacing: 1.2px;
+ color: black;
+ display: inline;
+}
+
+p{
+  font-family: ff-folk-rough, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+  line-height:1.4;
+  font-style: normal;
+}
+
+.section1 {
+  grid-row: 1 / 2;
+}
+
+.section2 {
+  grid-row: 3 / 4;
+}
+
+.section3 {
+  grid-row: 5 / 6;
+}
+
+.title1{
+ font-family: ff-folk-rough, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ position: absolute;
+ top: 390px;
+ left:450px;
+ transform: rotate(90deg);
+}
+
+.title2{
+ font-family: ff-folk-rough, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ position: absolute;
+ top: 5440px;
+ left:400px;
+ transform: rotate(90deg);
+}
+
+.title3{
+ font-family: ff-folk-rough, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ position: absolute;
+ top: 8590px;
+ left:380px;
+ transform: rotate(90deg);
+}
+
+.title4{
+ font-family: ff-folk-rough, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ position: absolute;
+ top: 9550px;
+ left:550px;
+ transform: rotate(90deg);
+}
+
+.title5{
+ font-family: ff-folk-rough, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ position: absolute;
+ top: 9880px;
+ left:750px;
+ transform: rotate(90deg);
+ padding:40px;
+}
+
+
+
