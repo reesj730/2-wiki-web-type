@@ -22,8 +22,8 @@ h1{
  font-family: ff-folk-rough, sans-serif;
  font-weight: 400;
  font-style: normal;
- font-size: 100px;
- text-align: center;
+ font-size: 50px;
+ text-align: right;
  color: red;
 }
 
@@ -38,11 +38,12 @@ h3{
  font-family: ff-folk-rough, sans-serif;
  font-weight: 400;
  font-style: normal;
- font-size: 24px;
+ font-size: 60px;
  position: absolute;
- top: 190px;
- left: 305px;
- text-align: center;
+ top: 100px;
+ padding-left: 200px;
+ padding-right: 100px;
+ text-align: right;
  color: red;
 }
 
