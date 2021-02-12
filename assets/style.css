@@ -83,7 +83,7 @@ p{
  font-weight: 400;
  font-style: normal;
  position: absolute;
- top: 390px;
+ top: 370px;
  left:450px;
  transform: rotate(90deg);
 }
@@ -93,7 +93,7 @@ p{
  font-weight: 400;
  font-style: normal;
  position: absolute;
- top: 5440px;
+ top: 5310px;
  left:400px;
  transform: rotate(90deg);
 }
@@ -103,7 +103,7 @@ p{
  font-weight: 400;
  font-style: normal;
  position: absolute;
- top: 8590px;
+ top: 8460px;
  left:380px;
  transform: rotate(90deg);
 }
@@ -113,7 +113,7 @@ p{
  font-weight: 400;
  font-style: normal;
  position: absolute;
- top: 9550px;
+ top: 9400px;
  left:550px;
  transform: rotate(90deg);
 }
@@ -123,7 +123,7 @@ p{
  font-weight: 400;
  font-style: normal;
  position: absolute;
- top: 9880px;
+ top: 9750px;
  left:750px;
  transform: rotate(90deg);
  padding:40px;
